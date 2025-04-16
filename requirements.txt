@@ -1,0 +1,29 @@
+# Add OpenAI client
+openai==1.12.0
+
+# NumPy and dependencies pip install numpy==1.23.5
+numpy==1.23.5
+
+# Hugging Face Transformer libraries
+transformers==4.28.1
+torch==2.0.1
+sentence-transformers==2.2.2
+
+# Web server for Twilio webhooks
+flask==2.3.2
+
+# Twilio API
+twilio==8.2.1
+
+# Basic dependencies dateparser==1.1.8
+python-dotenv==1.0.0
+pytz==2023.3
+dateparser
+
+# Google API integration
+google-api-python-client==2.86.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==1.0.0
+
+# Utilities
+requests==2.31.0
